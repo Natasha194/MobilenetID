@@ -1,0 +1,24 @@
+div {
+    box-shadow: 10px 4px 11px black;
+}
+#trainedDiv {
+    font-size: 20px;
+    height: 15%;
+    border-radius: 20px;
+}
+button {
+    box-shadow: 5px 4px 10px black;
+}
+canvas {
+    border: 2px solid black;
+    margin-top: 175px;
+    box-shadow: 6px 7px 11px black;
+}
+#footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background-color: cornflowerblue;
+    line-height: 2;
+}
